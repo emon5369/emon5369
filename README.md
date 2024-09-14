@@ -21,7 +21,7 @@ I'm a passionate **Computer Science and Engineering** student with experience in
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Emon Hossain](www.linkedin.com/in/emon5369)
+- **LinkedIn**: [Emon Hossain](https://www.linkedin.com/in/emon5369/)
 - **Email**: emon5369@gmail.com
 
 <!---
