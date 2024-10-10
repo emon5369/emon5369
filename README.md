@@ -8,10 +8,12 @@ I'm a passionate **Computer Science and Engineering** student with experience in
 
 ## 🔧 Skills & Technologies
 
-- **Languages**: C, Java, JavaScript
-- **Frontend**: HTML, CSS, React, Java Swing 
-- **Backend**: MySQL, PHP, Node.js (beginner)
-- **Tools**: Git, GitHub, Tailwind CSS, Appwrite, Netlify
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, React, Astro, Java Swing 
+- **Backend**: PHP, Node.js, Express (beginner)
+- **Databases**: MySQL, MongoDB, Mongoose
+- **Languages**: C, Java 
+- **Version Control**: Git, GitHub
+- **Other Tools**: Appwrite, Netlify
 - **Currently Learning**: Python, AI & Machine Learning, Cloud Technologies
 
 ## 🌱 Future Interests
@@ -21,6 +23,7 @@ I'm a passionate **Computer Science and Engineering** student with experience in
 
 ## 📫 Get in Touch
 
+- **Website**: [Emon's portfolio](https://mdemonhossain.vercel.app/)
 - **LinkedIn**: [Emon Hossain](https://www.linkedin.com/in/emon5369/)
 - **Email**: emon5369@gmail.com
 
