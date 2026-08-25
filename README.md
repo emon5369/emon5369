@@ -1,10 +1,14 @@
 # Hello, I am Emon 👋
 
-Welcome to my GitHub profile. I am a dedicated **Computer Science and Engineering** student with a strong interest in **Web Development** and emerging fields such as **AI** and **Machine Learning**.
+Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate and currently working as a Technical Support Engineer.
 
 ## 🚀 About Me
 
-I develop intuitive and responsive web applications. My work focuses on creating effective user interfaces while continuously expanding my technical skills and exploring new technologies.
+I’m a technology enthusiast with a background in software development and technical support. In my current role, I work on troubleshooting technical issues, analyzing problems, and helping ensure that systems and applications run smoothly.
+
+Beyond my professional work, I enjoy building intuitive and responsive web applications and experimenting with new technologies. I’m continuously expanding my skills through hands-on projects, learning, and exploring areas such as AI and Machine Learning.
+
+I believe good engineering is about more than just writing code — it’s about understanding problems, finding effective solutions, and continuously learning along the way.
 
 ## 🔧 Skills & Technologies
 
