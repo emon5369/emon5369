@@ -1,4 +1,4 @@
-# Hello, I am Emon 👋
+# Hi, I'm Emon👋
 
 Welcome to my GitHub profile! I’m a Computer Science and Engineering graduate and currently working as a Technical Support Engineer.
 
@@ -43,16 +43,19 @@ I believe good engineering is about more than just writing code — it’s about
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-47A141?style=flat-square&logo=shopify&logoColor=white)
 
-### 📖 Currently Learning  
+### 📖 Currently Learning
 
-I'm currently diving into:  
+I'm currently expanding my skills at the intersection of **Web Development and AI**, with a focus on building practical, AI-powered applications.
 
-- **Machine Learning** – Exploring the fundamentals, experimenting with models, and understanding real-world applications.  
-- **Deep Learning** – Getting familiar with neural networks, TensorFlow/PyTorch, and model training techniques.  
-- **Cloud Technologies** – Learning about cloud platforms and their role in AI/ML deployment.  
+* **AI Integration with Web Applications** – Learning how to integrate AI capabilities into modern web applications and build useful, intelligent user experiences.
+* **LLM Fundamentals** – Exploring the basics of Large Language Models, how they work, and how to work with them effectively in real-world applications.
+* **TypeScript** – Strengthening my knowledge and applying TypeScript more extensively in modern web development.
+* **PostgreSQL** – Learning relational database design, queries, and integrating PostgreSQL into full-stack applications.
+* **Docker** – Building on my existing knowledge of Docker and improving my understanding of containerized development and deployment.
 
-Still figuring things out, but enjoying the journey!
+Always learning, always building, and gradually turning ideas into working projects.
 
 ## 📫 Connect With Me
 
